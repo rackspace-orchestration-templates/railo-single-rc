@@ -1,6 +1,7 @@
 heat_template_version: 2013-05-23
 
 description: |
+  ####Single Linux server - RC
   Single Linux server running [Railo 4.2.1](http://www.getrailo.org/).
 
   This template will only function with RackConnect v3.
